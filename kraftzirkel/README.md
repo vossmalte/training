@@ -1,6 +1,6 @@
 # Kraftzirkel
 
-Stark anpassbar, beliebt als kurzes $3 \cdot 3 \cdot 3 \cdot 30\text{s}$.
+Stark anpassbar, beliebt als kurzes 3 x 3 x 3 x 30s.
 
 Wähle 3 Übungen (A, B, C), die dann folgendermaßen wiederholt werden:
 **ABC ABC ABC**
